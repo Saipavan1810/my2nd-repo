@@ -4,9 +4,6 @@ public class Main {
    }
 }
 
-
-
-
 public class AddTwoIntegers {
    public static void main(String[] args) {
        int first = 10;
